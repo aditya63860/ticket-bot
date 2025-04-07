@@ -1,6 +1,6 @@
 {
     "TOKEN": "TOKEN_HERE",
-    "GUILD-ID": "SERVER_ID",
-    "MONGO_URI": "MONGO_URI_HERE",
+    "GUILD-ID": "1358668790614855840",
+    "MONGO_URI": "mongodb+srv://aditya:aditya@cluster0.a90ji.mongodb.net/?retryWrites=true&w=majority&",
     "LANGUAGE": "en"
 }
